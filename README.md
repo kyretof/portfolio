@@ -1,2 +1,2 @@
 # portfolio
-Portfolio/Blog website
+Barebone portfolio/blog website
